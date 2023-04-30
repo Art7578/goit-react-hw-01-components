@@ -1,0 +1,38 @@
+.transaction_history {
+    width: 800px;
+    margin-top: 20px;
+    table-layout: fixed;
+  }
+  .head {
+    border: 2px solid #cfdebd;
+    background-color: #f2a37e;
+  }
+  
+  .rows {
+    text-align: center;
+  }
+  .tr {
+    background-color: #90EE90;
+    color: #fff;
+    padding: 20px;
+    font-weight: 700;
+    font-size: 20px;
+  }
+ .type {
+    background-color: #A9A9A9;
+    padding: 20px;
+    font-weight: 400;
+    font-size: 20px;
+  }
+ .amount {
+    background-color: #F5F5DC;
+    padding: 20px;
+    font-weight: 400;
+    font-size: 20px;
+  }
+ .currency {
+    background-color: #FFD700;
+    padding: 20px;
+    font-weight: 400;
+    font-size: 20px;
+  }
